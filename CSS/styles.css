@@ -23,7 +23,6 @@ body{
     background-color:rgb(45, 44, 44);
     display: flex;
     justify-content: center;
-    align-items: center;
 }
 
 .nav{
@@ -35,6 +34,8 @@ body{
 
 .li_nav{
     list-style: none;
+    margin-top: 10%;
+    font-size: 20px;
 }
 .a{
     color: white;
